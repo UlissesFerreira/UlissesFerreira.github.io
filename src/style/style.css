@@ -17,5 +17,5 @@ body {
 }
 
 .c-GreetingTitle {
-  height: 4.5rem;
+  min-height: 4.5rem;
 }
