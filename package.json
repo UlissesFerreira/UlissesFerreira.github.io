@@ -1,0 +1,12 @@
+{
+  "name": "ulissesferreira.github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ulissesferreira/ulissesferreira.github.io.git",
+  "author": "Ulisses Ferreira <ulissesvf@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  }
+}
