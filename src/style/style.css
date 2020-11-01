@@ -15,3 +15,7 @@ body {
   margin: 0 auto;
   padding: 1rem;
 }
+
+.c-GreetingTitle {
+  height: 4.5rem;
+}
