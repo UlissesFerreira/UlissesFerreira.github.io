@@ -1,0 +1,11 @@
+.c-Project {
+  width: 100%;
+}
+
+.c-Project > img {
+  max-width: 100%;
+}
+
+._gifPadding {
+  padding: 1rem 30px;
+}

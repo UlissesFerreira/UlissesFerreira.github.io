@@ -19,7 +19,6 @@ const GREETINGS = [
 
 window.addEventListener('load', () => {
   const greetingElement = document.getElementById('greeting')
-  const greetingLabelElement = document.getElementById('greeting-element')
   const randomGreeting = GREETINGS[Math.floor(Math.random() * GREETINGS.length)]
   greetingElement.innerHTML = randomGreeting
 });
